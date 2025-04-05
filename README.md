@@ -1,7 +1,21 @@
 # 💫 About Me:
-👋 Hi, I'm Nebil Hussien!<br>🚀 Data Scientist | Software Engineer | AI Researcher<br>🔍 Passionate about AI, Full-Stack Development, & Bussiens and Data Analytics<br>💡Obsessed with solving real-world problems using code and data <br>  
+👋 **Hi, I'm Nebil Hussien!**<br>🚀 **Data Scientist | Software Engineer | AI Researcher**<br>🔍**Passionate about AI, Full-Stack Development, & Bussiens and Data Analytics**<br>💡**Obsessed with solving real-world problems using code and data**<br>  
 
-From launching Ethiopia’s first de-risked loan management system to collaborating with the MIT Media Lab on cutting-edge AI research, I’ve always been driven by one thing: building technology that matters. Whether it's deploying healthcare solutions that create thousands of jobs, or developing cognitive science experiments powered by LLMs, my work sits at the intersection of impact and innovation.With 5+ years of experience in software engineering and 2+ years in data science, I specialize in MERN stack, Laravel, Python, and Cloud Computing. My work ranges from building AI-powered research applications to designing large-scale financial and healthcare solutions.<br><br>📌 Current Work<br>🔬 Research Assistant @ Hasso-Plattner-Institute<br><br>Developing and fine-tuning LLMs for neuro-cognitive studies<br><br>Implementing AI-driven psychology & HCI experiments<br><br>Collaborating with MIT Media Lab on cutting-edge research<br><br>🌱 Always Learning<br>Advanced AI & NLP models<br><br>Cybersecurity & Compliance Research<br><br>Web3 & Blockchain (Solidity, Smart Contracts)<br><br>🚀 Let’s connect and build something awesome together!<br><br>📫 Find me on: <a link="https://www.linkedin.com/in/nebil-hussien-a548a3156/">LinkedIn</a> | <a href="mailto:hussien@uni-potsdam.de">Send me an email</a>
+From launching Ethiopia’s first de-risked loan management system led by MasterCard Foundation to collaborating with the MIT Media Lab on cutting-edge AI research, I’ve always been driven by one thing: **building technology that matters.** <br>Whether it's deploying healthcare solutions that create thousands of jobs, or developing cognitive science experiments powered by LLMs, my work sits at the intersection of impact and innovation.<br><br>With 5+ years of experience in software engineering and 2+ years in data science, I specialize in MERN stack, Laravel, Python, and Cloud Computing.<br><br>
+📌 Current Work<br>
+🔬 Research Assistant @ Hasso-Plattner-Institute<br><br>Developing and fine-tuning LLMs for neuro-cognitive studies<br><br>Implementing AI-driven psychology & HCI experiments<br><br>Collaborating with MIT Media Lab on cutting-edge research<br><br>
+✨ A Few Things I’m Proud Of
+
+- Disbursed over €1.3 million in loans through tech I helped build
+- Enabled 3,000+ remote health checkups in collaboration with the Ethiopian Ministry of Health and Bridge
+- Published research in top-tier venues like CHI and ICIS
+<br><br>
+🌱 Always Learning<br>
+
+- Advanced AI & NLP models
+- Cybersecurity & Compliance Research
+- Web3 & Blockchain (Solidity, Smart Contracts)
+🚀 Let’s connect and build something awesome together!<br><br>📫 Find me on: <a href="https://www.linkedin.com/in/nebil-hussien-a548a3156/">LinkedIn</a> | <a href="mailto:hussien@uni-potsdam.de">Send me an email</a>
 
 
 # 💻 Tech Stack:
