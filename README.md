@@ -1,7 +1,8 @@
 # 💫 About Me:
 👋 **Hi, I'm Nebil Hussien!**<br>🚀 **Data Scientist | Software Engineer | AI Researcher**<br>🔍**Passionate about AI, Full-Stack Development, & Bussiens and Data Analytics**<br>💡**Obsessed with solving real-world problems using code and data**<br>  
 
-From launching Ethiopia’s first de-risked loan management system led by MasterCard Foundation to collaborating with the MIT Media Lab on cutting-edge AI research, I’ve always been driven by one thing: **building technology that matters.** <br>Whether it's deploying healthcare solutions that create thousands of jobs, or developing cognitive science experiments powered by LLMs, my work sits at the intersection of impact and innovation.<br><br>With 5+ years of experience in software engineering and 2+ years in data science, I specialize in MERN stack, Laravel, Python, and Cloud Computing.<br><br>
+From launching Ethiopia’s first de-risked loan management system led by MasterCard Foundation to collaborating with the MIT Media Lab on cutting-edge AI research, I’ve always been driven by one thing: **building technology that matters.** <br>Whether it's deploying healthcare solutions that create thousands of jobs, or developing cognitive science experiments powered by LLMs, my work sits at the intersection of impact and innovation.<br><br>With 5+ years of experience in software engineering and 2+ years in data science, I specialize in MERN stack, Laravel, Python, and Cloud Computing.
+<br><br>
 📌 Current Work
 
 - 🔬 Research Assistant @ Hasso-Plattner-Institute
