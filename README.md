@@ -7,7 +7,8 @@ From launching Ethiopia’s first de-risked loan management system led by Master
 - 🔬 Research Assistant @ Hasso-Plattner-Institute
 - Developing and fine-tuning LLMs for neuro-cognitive studies
 - Implementing AI-driven psychology & HCI experiments
-- Collaborating with MIT Media Lab on cutting-edge research
+- Collaborating with MIT Media Lab on cutting-edge research<br><br>
+
 ✨ A Few Things I’m Proud Of
 
 - Disbursed over €1.3 million in loans through tech I helped build
