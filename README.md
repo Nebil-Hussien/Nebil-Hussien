@@ -20,6 +20,7 @@ From launching Ethiopia’s first de-risked loan management system led by Master
 - Advanced AI & NLP models
 - Cybersecurity & Compliance Research
 - Web3 & Blockchain (Solidity, Smart Contracts)
+<br><br>
 🚀 Let’s connect and build something awesome together!<br><br>📫 Find me on: <a href="https://www.linkedin.com/in/nebil-hussien-a548a3156/">LinkedIn</a> | <a href="mailto:hussien@uni-potsdam.de">Send me an email</a>
 
 
