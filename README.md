@@ -22,7 +22,7 @@ From launching Ethiopia’s first de-risked loan management system led by Master
 - Cybersecurity & Compliance Research
 - Web3 & Blockchain (Solidity, Smart Contracts)
 <br><br>
-🚀 Let’s connect and build something awesome together!<br><br>📫 Find me on: <a href="https://www.linkedin.com/in/nebil-hussien-a548a3156/">LinkedIn</a> | <a href="mailto:hussien@uni-potsdam.de">Send me an email</a> | <a href="https://github.com/Neba2262">Old-Github</a>
+🚀 Let’s connect and build something awesome together!<br><br>📫 Find me on: <a href="https://www.linkedin.com/in/nebil-hussien-a548a3156/">LinkedIn</a> | <a href="mailto:hussien@uni-potsdam.de">Send me an email</a> | <a href="https://www.researchgate.net/profile/Nebil-Hussien?ev=hdr_xprf">Research Papers</a>
 
 
 # 💻 Tech Stack:
